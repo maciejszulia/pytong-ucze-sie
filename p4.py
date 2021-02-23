@@ -1,10 +1,6 @@
 import random
-from random_word import RandomWords
 
 my_list = [1, 2, 3, 4, 5, 6, 7, 8, "Maciek", [0, 1, 2, 3, 4, 5]]
-
-
-
 
 x = 0
 for x in range(100):
